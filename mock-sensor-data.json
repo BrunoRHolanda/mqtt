@@ -1,0 +1,18 @@
+[
+  {
+    "temperature": 25.4,
+    "humidity": 90
+  },
+  {
+    "temperature": 25.4,
+    "humidity": 55
+  },
+  {
+    "temperature": 30.4,
+    "humidity": 50
+  },
+  {
+    "temperature": 19.25,
+    "humidity": 50
+  }
+]
